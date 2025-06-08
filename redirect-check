@@ -1,0 +1,15 @@
+<!-- redirect.html -->
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <title>성적 조회 시스템 접속 중...</title>
+  <script>
+    // Google Apps Script 웹앱 exec 주소
+    window.location.replace("https://script.google.com/macros/s/AKfycbz7UUVDncEYvJoVZGvtTskSVPW2yOUy3_9Y6VRW7wZxrGbDubtQ_u2VP4VsfxPDi1bvdA/exec");
+  </script>
+</head>
+<body>
+  <p>성적 조회 페이지로 이동 중입니다. 잠시만 기다려 주세요...</p>
+</body>
+</html>
